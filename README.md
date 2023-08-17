@@ -15,13 +15,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## Overview<
+## Overview
 
 
 ### Screenshot
 
-/Users/hannahallan/Documents/Screenshot 2023-08-17 at 16.58.01.png
 
+
+<img width="1728" alt="Screenshot 2023-08-17 at 16 58 01" src="https://github.com/hanney94/QRcode/assets/102077587/e73cfd49-50e7-457e-abbd-d1bef26c0a1a">
 
 ### Links
 
