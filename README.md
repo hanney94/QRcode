@@ -20,7 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<img width="1728" alt="Screenshot 2023-08-17 at 16 58 01" src="https://github.com/hanney94/QRcode/assets/102077587/722d64ce-a059-4307-a6c6-8044e0be9fb4">
+/Users/hannahallan/Documents/Screenshot 2023-08-17 at 16.58.01.png
 
 
 ### Links
